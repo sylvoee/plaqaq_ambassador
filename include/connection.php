@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect('localhost', 'root', '', 'db_ref'); 
+$con = mysqli_connect('https://github.com/sylvoee/plaqaq_ambassador', '', '', 'db_ref'); 
 
 if(!$con)
 {
