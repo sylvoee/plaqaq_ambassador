@@ -110,11 +110,11 @@ label{color:green;}
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="ref.php">PlaQaq</a>
+      <a class="navbar-brand" href="index.php">PlaQaq</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="ref.php">Become a Plaqad Campus Ambassador</a></li>
+        <li class="active"><a href="index.php">Become a Plaqad Campus Ambassador</a></li>
         
       </ul>
       <ul class="nav navbar-nav navbar-right">
