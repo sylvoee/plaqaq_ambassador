@@ -27,7 +27,7 @@ benefits including:
 </ul>
 </p>
 	
-	<form method="post" action="ref.php">
+	<form method="post" action="index.php">
 	  
          <div class="form-group col-sm-6">
 		<input type="text" name="first_name" class = "form-control" placeholder ="Enter Name" required>
